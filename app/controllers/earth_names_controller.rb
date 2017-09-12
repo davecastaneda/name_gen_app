@@ -1,0 +1,2 @@
+class EarthNamesController < ApplicationController
+end
